@@ -8,7 +8,8 @@ Some features on this project are:
  - Basic Django/Python libraries
  - Basic CSS styling classes
  - `base.html` file that imports Bootstrap, jQuery, and FontAwesome as CDNs
-
+ 
+ Note: If you're only interested in splitting the development and deployment settings, you can use the `only-settings` branch
 
 ## Requirements
 - [Python 3.9](https://www.python.org/)
