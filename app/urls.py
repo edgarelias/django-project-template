@@ -19,6 +19,4 @@ from django.urls import path, include
 
 urlpatterns = [
     path(settings.ADMIN_URL, admin.site.urls),
-
-    path('', include('main.urls')), #atm the home page will be the main app
 ]
